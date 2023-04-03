@@ -52,4 +52,4 @@ Returns the size of the list that was freed.
 Not allowed to use malloc, free or arrays
 Can only declare a maximum of two variables
 If no loop is found - returns NULL.
-Otherwise - returns the address of the node where the loop starts.
+Otherwise - returns the address of the node where the loop start
